@@ -19,4 +19,7 @@ Welcome to our Unity 3D Racing Game! This game offers an exhilarating racing exp
 - **Lap Counter**: Keep track of your completed laps with the in-game lap counter.
 - **Timer**: Monitor your race time with the in-game timer.
 
-![Game Screenshot](images/screenshot.png)
+![Game Screenshot](Assets/CRaceTrack.png)
+![Game Screenshot](Assets/IRaceTrack.png)
+![Game Screenshot](Assets/LRaceTrack.png)
+![Game Screenshot](Assets/SRaceTrack.png)
